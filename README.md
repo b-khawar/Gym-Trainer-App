@@ -24,7 +24,8 @@ The application includes four distinct user interfaces:
 4. Member Interface: View assigned workout plans, log workouts, track progress, and communicate with trainers.
 
 # Technologies Used
-**Framework:** C.NET
-**Backend:** C#
-**Database:** SQL
-**Development Environment:** Visual Studio
+
+**Framework:** C.NET<br>
+**Backend:** C#<br>
+**Database:** SQL<br>
+**Development Environment:** Visual Studio<br>
